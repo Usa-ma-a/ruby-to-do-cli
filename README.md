@@ -103,7 +103,7 @@ Choose an option: 2
 
 ##  Related Projects
 
-* **`ruby-todo-cli-oop`** – Object-Oriented version of this application
+* **`ruby-todo-cli-oop`** https://github.com/Usa-ma-a/ruby-todo-oop.git – Object-Oriented version of this application
 
 ---
 
